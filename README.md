@@ -33,8 +33,8 @@
 
 ## 🔗 Bağlantılar & İletişim
 
-- [LinkedIn](https://www.linkedin.com/)  
-- [E-posta](mailto:mail@example.com)  
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/bircansenol/))  
+- [E-posta](senolbircan1@gmail.com)  
 - Diğer projelerim burada: [Repositories](https://github.com/senolbircan1?tab=repositories)
 
 ---
